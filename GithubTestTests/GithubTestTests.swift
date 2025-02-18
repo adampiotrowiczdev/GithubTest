@@ -6,7 +6,7 @@
 //
 
 import Testing
-@testable import GithubTest
+@testable import GithubTestApdev001
 
 struct GithubTestTests {
 
